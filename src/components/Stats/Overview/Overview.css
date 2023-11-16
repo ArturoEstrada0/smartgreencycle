@@ -1,0 +1,12 @@
+/* En src/components/Stats/Overview/Overview.css */
+
+.overview-container {
+    padding: 20px;
+    /* Más estilos según sea necesario */
+  }
+  
+  .suggestions-section {
+    margin-top: 20px;
+    /* Estilos para la sección de consejos y sugerencias */
+  }
+  

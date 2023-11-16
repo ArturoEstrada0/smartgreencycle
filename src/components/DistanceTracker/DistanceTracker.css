@@ -1,0 +1,27 @@
+/* En src/components/DistanceTracker/DistanceTracker.css */
+
+.distance-tracker-container {
+    padding: 20px;
+    background-color: #fff; /* Cambia esto según tu esquema de colores */
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .distance-tracker-title {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333; /* O cualquier color que coincida con tu esquema de colores */
+  }
+  
+  .custom-tooltip {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .custom-tooltip .label {
+    color: #333;
+  }
+  
